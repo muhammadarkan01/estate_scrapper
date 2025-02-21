@@ -1,0 +1,4 @@
+*.html
+error_logs
+output
+.venv
